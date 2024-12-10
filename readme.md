@@ -8,5 +8,5 @@
 
 * comando git e push
 * comando git pull
-* comandi git fetch
+* comando git fetch
   
