@@ -5,3 +5,5 @@
 ## Fase de teste
 
 * uso do comando git restore
+
+* comando git e push 
