@@ -8,7 +8,7 @@
 
 * comando git e push
 * comando git pull
-       o adicionar o comando git pull, adicionará automaticamente os comandos que outra pessoa fez
+   git commit -F minha_mensagem.txt
 * comando git fetch
 
   
