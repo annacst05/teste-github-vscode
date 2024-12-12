@@ -9,7 +9,7 @@
 
 * comando git e push
 * comando git pull
-    isso adicionara o comando do outro ADM do progeto
+    \isso adicionara o comando do outro ADM do progeto
 * comando git fetch
 
 
