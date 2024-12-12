@@ -8,7 +8,7 @@
 
 * comando git e push
 * comando git pull
+        "Ao adicionar o comando git pull, adicionará automaticamente os comandos que outra pessoa fez"
 * comando git fetch
-    
 
   
