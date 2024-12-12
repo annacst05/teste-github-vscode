@@ -8,7 +8,7 @@
 
 * comando git e push
 * comando git pull
-   git commit -F minha_mensagem.txt
+    isso adicionara o comando do outro ADM do progeto
 * comando git fetch
 
   
